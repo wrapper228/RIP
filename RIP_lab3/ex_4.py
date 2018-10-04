@@ -1,7 +1,7 @@
+#!/usr/bin/env python3
 from librip.decorators import print_result
 
-# Необходимо верно реализовать print_result
-# и задание будет выполнено
+# Реализация задания 4
 
 @print_result
 def test_1():
